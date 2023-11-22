@@ -1,2 +1,2 @@
 # PHP-MySQL-CRUD-LoginSystem
-in this version i've added loader animation and using jQuery
+In this version, I've added a loader animation and am using jQuery.
